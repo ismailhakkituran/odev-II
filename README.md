@@ -1,4 +1,4 @@
-# odev-II
+# Ödev-II, Dağıtık Abonelik Sistemi Uygulaması
 
 OMÜ, 23-24 Güz Dönemi, Sistem Programlama dersi kapsamında paylaşılan şablon niteliğinde kodlardır.
 
